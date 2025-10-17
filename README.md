@@ -133,4 +133,3 @@ Thus , a Radial Basis Function Neural Network is implemented to classify XOR dat
 
 
 
-5
